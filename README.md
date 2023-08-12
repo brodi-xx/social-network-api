@@ -2,7 +2,7 @@
 
 ## Description
 
-An app with the ability to connect with others that utilize MongoDB for its flexibility
+A social media app with the ability to connect with others that you can share thoughts and react to your friends' thoughts. Technology used includees Express.js, MongoDB, Faker.js 
 
 ## Table of Contents
 
@@ -15,15 +15,20 @@ An app with the ability to connect with others that utilize MongoDB for its flex
 
 ## Installation
 
-To install the application, you would pull the files from my repo and install all packages. Open a command window on your computer, and run MongoDB. This will need to be installed on your system.
+To install the application, you would pull the files from my repo and install all packages with an npm i. Open a command window on your computer, and run MongoDB. This will need to be installed on your system.
 
 ## Usage
 
-Once you have the file running, you are able to add, save, delete your notes
+Once you have the file running, you are able to add, save, delete your thoughts.
+
+You can see a demo of it here:
+
+https://drive.google.com/file/d/10kqzd-oMjukjCvD61vpUoJOtFZrpZQbt/view
+
 
 ## Credits
 
-I used w3 schools, youtube, class assets, etc. to complete this project
+I used w3 schools, youtube, class assets, stackoverflow etc. to complete this project
 
 ## License
 
